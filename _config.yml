@@ -1,28 +1,156 @@
-name: 'Dreadjim '
-favicon: null
-layout_spectrum: 0.7351566227152944
-typography_spectrum: 0.5334173443261534
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.08375955331480445
+typography_spectrum: 0.8718350638905632
+color:
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.17727181797293892
+  lightness: 0.9717809193410754
+  saturation: 0.31256066224860524
+  rhythmicContrast: 0.9046520532606779
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3292204630561173
-  lightness: 0.7733510597608984
-  saturation: 0.44227603799663484
-  rhythmicContrast: 0.9250012398697436
-purpose: []
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Dreadjim
+  email: Dreadjim@gmail.com
+  url: Dreadjim.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61293734-ef26-4233-ae43-a6917499619c.jpg
+name: 'Dreadjim '
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Singapore Art Studio
+    url: 'https://www.lionheart-studio.com/'
+    type: external
+  - name: My old website
+    url: 'https://www.dreadjim.com'
+    type: external
+favicon: null
+title: The ART OF DREADJIM
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FuOpn78tIhHw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuOpn78tIhHw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FuOpn78tIhHw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=uOpn78tIhHw'
+      keywords:
+        - dreadjim
+        - conceptart
+        - digitalart
+        - characterdesign
+        - environmentdesign
+        - scifi
+        - fantasy
+        - paintings
+        - league of legends (video game)
+        - yasuo
+        - speed painting
+      related: []
+      author:
+        - name: DreadJim
+          url: 'https://www.youtube.com/user/shinohirai'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: 'Dreadjim™ Video: Yasuo Last Breath SpeedPaint'
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uOpn78tIhHw&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uOpn78tIhHw&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=uOpn78tIhHw&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uOpn78tIhHw&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=uOpn78tIhHw&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=uOpn78tIhHw'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=uOpn78tIhHw
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=uOpn78tIhHw
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        Velcome to another episode of Dreadjim's videos! In this video, I
+        approached it more like a doodle, a relaxed but extremely fun rainy
+        afternoon sketch that turned out into the result. It was a well spent 30
+        minutes, very fun and I hop you enjoyed the result. Last Breath.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a39229-ad3b-4988-9e2c-494a4b2c098f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a39229-ad3b-4988-9e2c-494a4b2c098f.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+purpose:
+  - type: external
+    url: 'https://gumroad.com/dreadjim'
+    label: Buy Tutorials
+  - type: contact
+    url: 'mailto:Dreadjim@gmail.com'
+    label: Contact me
+description: 'Works, speedpaints and the Unfinished offspring of Dreadjim.'
+github: true
