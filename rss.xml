@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The ART OF DREADJIM]]></title>
+        <description><![CDATA[The ART OF DREADJIM]]></description>
+        <link>http://dreadjim.pics/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Nov 2017 04:37:00 GMT</lastBuildDate>
+        <atom:link href="http://dreadjim.pics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jungle guide]]></title>
+            <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ef591b-7473-414f-b4cc-8d3153632596.jpg"><h1>Jungle guide</h1></article>]]></description>
+            <link>http://dreadjim.pics/jungle-guide/index.html</link>
+            <guid isPermaLink="false">502468f6-8e3a-43a6-8256-ccf32e3c1f53</guid>
+            <pubDate>Tue, 21 Nov 2017 04:36:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
