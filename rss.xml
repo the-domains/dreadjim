@@ -4,14 +4,22 @@
         <description><![CDATA[The ART OF DREADJIM]]></description>
         <link>http://dreadjim.pics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Nov 2017 04:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2017 04:38:05 GMT</lastBuildDate>
         <atom:link href="http://dreadjim.pics/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 21 Nov 2017 04:38:04 GMT</pubDate>
         <item>
             <title><![CDATA[Jungle guide]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ef591b-7473-414f-b4cc-8d3153632596.jpg"><h1>Jungle guide</h1></article>]]></description>
             <link>http://dreadjim.pics/jungle-guide/index.html</link>
             <guid isPermaLink="false">502468f6-8e3a-43a6-8256-ccf32e3c1f53</guid>
             <pubDate>Tue, 21 Nov 2017 04:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to the domain of Dreadjim.]]></title>
+            <description><![CDATA[<h1><strong>Welcome to the domain of Dreadjim.</strong></h1>,<iframe src="https://the-grid.github.io/ed-location/?latitude=1.351616&longitude=103.808053&zoom=10&address=Singapore"></iframe>,<p>Wacom’s First Master Artist 2017. Lionheart Studio Art and Creative Director. Located on the mighty small red dot called Singapore, but freelancing all over the world since 2006…</p>]]></description>
+            <link>https://the-grid.github.io/ed-location/?latitude=1.351616&amp;longitude=103.808053&amp;zoom=10&amp;address=Singapore</link>
+            <guid isPermaLink="false">a9c4b27b-12fb-499f-8c32-037bbf40cdc6</guid>
+            <pubDate>Tue, 01 Aug 2017 16:33:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
